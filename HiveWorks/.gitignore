@@ -38,5 +38,7 @@ build/
 Scripts/
 .dbeaver/
 
+### AWS ###
+*.pem
 
 ### logback.xml ###
